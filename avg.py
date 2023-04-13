@@ -6,9 +6,10 @@ with open('./AES-Results.txt', 'r') as file:
 avg = 0
 for line in lines:
     if '#' in line:
+        print('\n\n')
         print('On', line)
-    elif '/' in line:
+    elif len(line) == 1:
         print(f'avg = {avg/5}ms')
         avg = 0
     else:
-        print(re.search('^.*TIME.*([0-9]*).ms$', line))
+        avg += int(re.search('\d{3,4}(?=\D*$)', line).group())

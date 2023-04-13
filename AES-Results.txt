@@ -4,13 +4,13 @@ N_FILES:   100 | BATCH:  1 | TIME:        681 ms
 N_FILES:   100 | BATCH:  2 | TIME:        728 ms
 N_FILES:   100 | BATCH:  3 | TIME:        775 ms
 N_FILES:   100 | BATCH:  4 | TIME:        766 ms
-/
+
 N_FILES:   200 | BATCH:  0 | TIME:       1518 ms
 N_FILES:   200 | BATCH:  1 | TIME:       1544 ms
 N_FILES:   200 | BATCH:  2 | TIME:       1501 ms
 N_FILES:   200 | BATCH:  3 | TIME:       1513 ms
 N_FILES:   200 | BATCH:  4 | TIME:       1479 ms
-/
+
 N_FILES:   300 | BATCH:  0 | TIME:       2266 ms
 N_FILES:   300 | BATCH:  1 | TIME:       2217 ms
 N_FILES:   300 | BATCH:  2 | TIME:       2225 ms
@@ -182,123 +182,124 @@ N_FILES:  1000 | BATCH:  3 | TIME:       2107 ms
 N_FILES:  1000 | BATCH:  4 | TIME:       2084 ms
 
 #Parallel - CNC 8 Threads
-N_FILES:   100 | BATCH:  0 | TIME:        311 ms
-N_FILES:   100 | BATCH:  1 | TIME:        267 ms
-N_FILES:   100 | BATCH:  2 | TIME:        286 ms
-N_FILES:   100 | BATCH:  3 | TIME:        312 ms
-N_FILES:   100 | BATCH:  4 | TIME:        316 ms
+N_FILES:   100 | BATCH:  0 | TIME:        177 ms
+N_FILES:   100 | BATCH:  1 | TIME:        155 ms
+N_FILES:   100 | BATCH:  2 | TIME:        168 ms
+N_FILES:   100 | BATCH:  3 | TIME:        181 ms
+N_FILES:   100 | BATCH:  4 | TIME:        181 ms
 
-N_FILES:   200 | BATCH:  0 | TIME:        611 ms
-N_FILES:   200 | BATCH:  1 | TIME:        598 ms
-N_FILES:   200 | BATCH:  2 | TIME:        605 ms
-N_FILES:   200 | BATCH:  3 | TIME:        621 ms
-N_FILES:   200 | BATCH:  4 | TIME:        604 ms
+N_FILES:   200 | BATCH:  0 | TIME:        351 ms
+N_FILES:   200 | BATCH:  1 | TIME:        352 ms
+N_FILES:   200 | BATCH:  2 | TIME:        371 ms
+N_FILES:   200 | BATCH:  3 | TIME:        370 ms
+N_FILES:   200 | BATCH:  4 | TIME:        364 ms
 
-N_FILES:   300 | BATCH:  0 | TIME:        895 ms
-N_FILES:   300 | BATCH:  1 | TIME:        887 ms
-N_FILES:   300 | BATCH:  2 | TIME:        906 ms
-N_FILES:   300 | BATCH:  3 | TIME:        871 ms
-N_FILES:   300 | BATCH:  4 | TIME:        882 ms
+N_FILES:   300 | BATCH:  0 | TIME:        544 ms
+N_FILES:   300 | BATCH:  1 | TIME:        549 ms
+N_FILES:   300 | BATCH:  2 | TIME:        539 ms
+N_FILES:   300 | BATCH:  3 | TIME:        538 ms
+N_FILES:   300 | BATCH:  4 | TIME:        542 ms
 
-N_FILES:   400 | BATCH:  0 | TIME:       1195 ms
-N_FILES:   400 | BATCH:  1 | TIME:        770 ms
-N_FILES:   400 | BATCH:  2 | TIME:        731 ms
-N_FILES:   400 | BATCH:  3 | TIME:        712 ms
-N_FILES:   400 | BATCH:  4 | TIME:        728 ms
+N_FILES:   400 | BATCH:  0 | TIME:        731 ms
+N_FILES:   400 | BATCH:  1 | TIME:        725 ms
+N_FILES:   400 | BATCH:  2 | TIME:        722 ms
+N_FILES:   400 | BATCH:  3 | TIME:        709 ms
+N_FILES:   400 | BATCH:  4 | TIME:        753 ms
 
-N_FILES:   500 | BATCH:  0 | TIME:        984 ms
-N_FILES:   500 | BATCH:  1 | TIME:        913 ms
-N_FILES:   500 | BATCH:  2 | TIME:        970 ms
-N_FILES:   500 | BATCH:  3 | TIME:        954 ms
-N_FILES:   500 | BATCH:  4 | TIME:        961 ms
+N_FILES:   500 | BATCH:  0 | TIME:        937 ms
+N_FILES:   500 | BATCH:  1 | TIME:        872 ms
+N_FILES:   500 | BATCH:  2 | TIME:        958 ms
+N_FILES:   500 | BATCH:  3 | TIME:        932 ms
+N_FILES:   500 | BATCH:  4 | TIME:        926 ms
 
-N_FILES:   600 | BATCH:  0 | TIME:       1205 ms
-N_FILES:   600 | BATCH:  1 | TIME:       1135 ms
-N_FILES:   600 | BATCH:  2 | TIME:       1149 ms
-N_FILES:   600 | BATCH:  3 | TIME:       1170 ms
-N_FILES:   600 | BATCH:  4 | TIME:       1166 ms
+N_FILES:   600 | BATCH:  0 | TIME:       1065 ms
+N_FILES:   600 | BATCH:  1 | TIME:       1080 ms
+N_FILES:   600 | BATCH:  2 | TIME:       1120 ms
+N_FILES:   600 | BATCH:  3 | TIME:       1129 ms
+N_FILES:   600 | BATCH:  4 | TIME:       1140 ms
 
-N_FILES:   700 | BATCH:  0 | TIME:       1354 ms
-N_FILES:   700 | BATCH:  1 | TIME:       1362 ms
-N_FILES:   700 | BATCH:  2 | TIME:       1547 ms
-N_FILES:   700 | BATCH:  3 | TIME:       1335 ms
-N_FILES:   700 | BATCH:  4 | TIME:       1354 ms
+N_FILES:   700 | BATCH:  0 | TIME:       1279 ms
+N_FILES:   700 | BATCH:  1 | TIME:       1319 ms
+N_FILES:   700 | BATCH:  2 | TIME:       1403 ms
+N_FILES:   700 | BATCH:  3 | TIME:       1279 ms
+N_FILES:   700 | BATCH:  4 | TIME:       1300 ms
 
-N_FILES:   800 | BATCH:  0 | TIME:       1547 ms
-N_FILES:   800 | BATCH:  1 | TIME:       1563 ms
-N_FILES:   800 | BATCH:  2 | TIME:       1560 ms
-N_FILES:   800 | BATCH:  3 | TIME:       1552 ms
-N_FILES:   800 | BATCH:  4 | TIME:       1534 ms
+N_FILES:   800 | BATCH:  0 | TIME:       1469 ms
+N_FILES:   800 | BATCH:  1 | TIME:       1523 ms
+N_FILES:   800 | BATCH:  2 | TIME:       1456 ms
+N_FILES:   800 | BATCH:  3 | TIME:       1485 ms
+N_FILES:   800 | BATCH:  4 | TIME:       1470 ms
 
-N_FILES:   900 | BATCH:  0 | TIME:       1781 ms
-N_FILES:   900 | BATCH:  1 | TIME:       1749 ms
-N_FILES:   900 | BATCH:  2 | TIME:       1708 ms
-N_FILES:   900 | BATCH:  3 | TIME:       1742 ms
-N_FILES:   900 | BATCH:  4 | TIME:       1778 ms
+N_FILES:   900 | BATCH:  0 | TIME:       1629 ms
+N_FILES:   900 | BATCH:  1 | TIME:       1722 ms
+N_FILES:   900 | BATCH:  2 | TIME:       1667 ms
+N_FILES:   900 | BATCH:  3 | TIME:       1666 ms
+N_FILES:   900 | BATCH:  4 | TIME:       1690 ms
 
-N_FILES:  1000 | BATCH:  0 | TIME:       1918 ms
-N_FILES:  1000 | BATCH:  1 | TIME:       1874 ms
-N_FILES:  1000 | BATCH:  2 | TIME:       1944 ms
-N_FILES:  1000 | BATCH:  3 | TIME:       1922 ms
-N_FILES:  1000 | BATCH:  4 | TIME:       1929 ms
+N_FILES:  1000 | BATCH:  0 | TIME:       1853 ms
+N_FILES:  1000 | BATCH:  1 | TIME:       1724 ms
+N_FILES:  1000 | BATCH:  2 | TIME:       1825 ms
+N_FILES:  1000 | BATCH:  3 | TIME:       1776 ms
+N_FILES:  1000 | BATCH:  4 | TIME:       1854 ms
 
 #Parallel - CNC 16 Threads
-N_FILES:   100 | BATCH:  0 | TIME:        240 ms
-N_FILES:   100 | BATCH:  1 | TIME:        215 ms
-N_FILES:   100 | BATCH:  2 | TIME:        235 ms
-N_FILES:   100 | BATCH:  3 | TIME:        243 ms
-N_FILES:   100 | BATCH:  4 | TIME:        245 ms
+N_FILES:   100 | BATCH:  0 | TIME:        235 ms
+N_FILES:   100 | BATCH:  1 | TIME:        217 ms
+N_FILES:   100 | BATCH:  2 | TIME:        233 ms
+N_FILES:   100 | BATCH:  3 | TIME:        246 ms
+N_FILES:   100 | BATCH:  4 | TIME:        241 ms
 
-N_FILES:   200 | BATCH:  0 | TIME:        484 ms
-N_FILES:   200 | BATCH:  1 | TIME:        482 ms
-N_FILES:   200 | BATCH:  2 | TIME:        493 ms
-N_FILES:   200 | BATCH:  3 | TIME:        478 ms
-N_FILES:   200 | BATCH:  4 | TIME:        472 ms
+N_FILES:   200 | BATCH:  0 | TIME:        479 ms
+N_FILES:   200 | BATCH:  1 | TIME:        508 ms
+N_FILES:   200 | BATCH:  2 | TIME:        473 ms
+N_FILES:   200 | BATCH:  3 | TIME:        477 ms
+N_FILES:   200 | BATCH:  4 | TIME:        461 ms
 
-N_FILES:   300 | BATCH:  0 | TIME:        736 ms
-N_FILES:   300 | BATCH:  1 | TIME:        702 ms
-N_FILES:   300 | BATCH:  2 | TIME:        709 ms
-N_FILES:   300 | BATCH:  3 | TIME:        737 ms
-N_FILES:   300 | BATCH:  4 | TIME:        706 ms
+N_FILES:   300 | BATCH:  0 | TIME:        714 ms
+N_FILES:   300 | BATCH:  1 | TIME:        695 ms
+N_FILES:   300 | BATCH:  2 | TIME:        711 ms
+N_FILES:   300 | BATCH:  3 | TIME:        770 ms
+N_FILES:   300 | BATCH:  4 | TIME:        695 ms
 
-N_FILES:   400 | BATCH:  0 | TIME:        952 ms
-N_FILES:   400 | BATCH:  1 | TIME:        942 ms
-N_FILES:   400 | BATCH:  2 | TIME:        972 ms
-N_FILES:   400 | BATCH:  3 | TIME:        939 ms
-N_FILES:   400 | BATCH:  4 | TIME:        950 ms
+N_FILES:   400 | BATCH:  0 | TIME:        939 ms
+N_FILES:   400 | BATCH:  1 | TIME:       1125 ms
+N_FILES:   400 | BATCH:  2 | TIME:       1109 ms
+N_FILES:   400 | BATCH:  3 | TIME:       1078 ms
+N_FILES:   400 | BATCH:  4 | TIME:        969 ms
 
-N_FILES:   500 | BATCH:  0 | TIME:       1220 ms
-N_FILES:   500 | BATCH:  1 | TIME:       1170 ms
-N_FILES:   500 | BATCH:  2 | TIME:       1256 ms
-N_FILES:   500 | BATCH:  3 | TIME:       1197 ms
-N_FILES:   500 | BATCH:  4 | TIME:       1243 ms
+N_FILES:   500 | BATCH:  0 | TIME:       1231 ms
+N_FILES:   500 | BATCH:  1 | TIME:       1173 ms
+N_FILES:   500 | BATCH:  2 | TIME:       1230 ms
+N_FILES:   500 | BATCH:  3 | TIME:       1366 ms
+N_FILES:   500 | BATCH:  4 | TIME:       1348 ms
 
-N_FILES:   600 | BATCH:  0 | TIME:       1422 ms
-N_FILES:   600 | BATCH:  1 | TIME:       1691 ms
-N_FILES:   600 | BATCH:  2 | TIME:       1416 ms
-N_FILES:   600 | BATCH:  3 | TIME:       1447 ms
-N_FILES:   600 | BATCH:  4 | TIME:       1504 ms
+N_FILES:   600 | BATCH:  0 | TIME:       1411 ms
+N_FILES:   600 | BATCH:  1 | TIME:       1413 ms
+N_FILES:   600 | BATCH:  2 | TIME:       1442 ms
+N_FILES:   600 | BATCH:  3 | TIME:       1444 ms
+N_FILES:   600 | BATCH:  4 | TIME:       1462 ms
 
-N_FILES:   700 | BATCH:  0 | TIME:       1709 ms
-N_FILES:   700 | BATCH:  1 | TIME:       1675 ms
-N_FILES:   700 | BATCH:  2 | TIME:       1722 ms
-N_FILES:   700 | BATCH:  3 | TIME:       1636 ms
-N_FILES:   700 | BATCH:  4 | TIME:       1707 ms
+N_FILES:   700 | BATCH:  0 | TIME:       1688 ms
+N_FILES:   700 | BATCH:  1 | TIME:       1732 ms
+N_FILES:   700 | BATCH:  2 | TIME:       1674 ms
+N_FILES:   700 | BATCH:  3 | TIME:       1624 ms
+N_FILES:   700 | BATCH:  4 | TIME:       1753 ms
 
-N_FILES:   800 | BATCH:  0 | TIME:       1983 ms
-N_FILES:   800 | BATCH:  1 | TIME:       1965 ms
-N_FILES:   800 | BATCH:  2 | TIME:       1933 ms
-N_FILES:   800 | BATCH:  3 | TIME:       1907 ms
-N_FILES:   800 | BATCH:  4 | TIME:       1930 ms
+N_FILES:   800 | BATCH:  0 | TIME:       1928 ms
+N_FILES:   800 | BATCH:  1 | TIME:       1961 ms
+N_FILES:   800 | BATCH:  2 | TIME:       1895 ms
+N_FILES:   800 | BATCH:  3 | TIME:       1934 ms
+N_FILES:   800 | BATCH:  4 | TIME:       1895 ms
 
-N_FILES:   900 | BATCH:  0 | TIME:       2245 ms
-N_FILES:   900 | BATCH:  1 | TIME:       2242 ms
-N_FILES:   900 | BATCH:  2 | TIME:       2135 ms
-N_FILES:   900 | BATCH:  3 | TIME:       2186 ms
-N_FILES:   900 | BATCH:  4 | TIME:       2151 ms
+N_FILES:   900 | BATCH:  0 | TIME:       2131 ms
+N_FILES:   900 | BATCH:  1 | TIME:       2272 ms
+N_FILES:   900 | BATCH:  2 | TIME:       2133 ms
+N_FILES:   900 | BATCH:  3 | TIME:       2162 ms
+N_FILES:   900 | BATCH:  4 | TIME:       2186 ms
 
-N_FILES:  1000 | BATCH:  0 | TIME:       2424 ms
-N_FILES:  1000 | BATCH:  1 | TIME:       2385 ms
-N_FILES:  1000 | BATCH:  2 | TIME:       2427 ms
-N_FILES:  1000 | BATCH:  3 | TIME:       2378 ms
-N_FILES:  1000 | BATCH:  4 | TIME:       2442 ms
+N_FILES:  1000 | BATCH:  0 | TIME:       2369 ms
+N_FILES:  1000 | BATCH:  1 | TIME:       2364 ms
+N_FILES:  1000 | BATCH:  2 | TIME:       2467 ms
+N_FILES:  1000 | BATCH:  3 | TIME:       2390 ms
+N_FILES:  1000 | BATCH:  4 | TIME:       2472 ms
+#

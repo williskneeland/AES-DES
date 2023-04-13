@@ -24,7 +24,7 @@ void CNC(vector<byte *> &uData, vector<int> &uLens, vector<byte *> &uKeys, vecto
         
         KeyExpansion(uKeys[i], expandedKey);
         
-        omp_set_num_threads(4);
+        omp_set_num_threads(16);
         #pragma omp parallel for 
         for(int curr_index = 0 ; curr_index<uLens[i] ; curr_index+=16){
 
